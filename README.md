@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Jasveer-Singh-01
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning  MERN
-- 💞️ I’m looking  for Job
-- 📫 https://www.linkedin.com/in/jasveer-singh-30bb56224/
+👋 Hi, I’m Jasveer Singh
 
-<!---
-Jasveer-Singh-01/Jasveer-Singh-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about Software Development with a focus on PHP & Laravel
+
+🌱 I’m continuously learning and exploring advanced Full Stack Web Development concepts
+
+💼 Currently working as a PHP Laravel Developer at HangingPanda
+
+💞️ I’m looking for new job opportunities where I can contribute and grow
+
+⚡ My skills: PHP, Laravel, MySQL, HTML, CSS, JavaScript, jQuery, RESTful APIs, Git
